@@ -28,6 +28,12 @@ It allows users to register, log in, browse products, add items to a cart, and s
 Educational project to demonstrate Java Web MVC concepts and basic e-commerce functionality.
 
 
+## Screenshots
+Homepage:
+![Homepage](web/images/homepage.png)
+
+Shopping Cart:
+![Cart](web/images/cartpage.png)
 
 **Note:** A MySQL database is required to fully run the project (login, products, and cart functionality).
 However, the project structure and code can be reviewed without a database
