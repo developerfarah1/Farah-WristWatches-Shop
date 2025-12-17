@@ -30,10 +30,10 @@ Educational project to demonstrate Java Web MVC concepts and basic e-commerce fu
 ## Screenshots
 
 Homepage:
-![Homepage](homepage.png)
+![Homepage](images/homepage.png)
 
 Shopping Cart:
-![Cart](cartpage.png)
+![Cart](images/cartpage.png)
 
 **Note:** A MySQL database is required to fully run the project (login, products, and cart functionality).
 However, the project structure and code can be reviewed without a database
