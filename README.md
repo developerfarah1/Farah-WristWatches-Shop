@@ -19,5 +19,10 @@ It allows users to register, log in, browse products, add items to a cart, and s
 - MySQL Database
 - Apache Tomcat
 
-## Purpose
+## How to Run
+1. Clone this repository
+2. Open in NetBeans
+3. Configure MySQL database
+4. Run on Apache Tomcat
+
 Educational project to demonstrate Java Web MVC concepts and basic e-commerce functionality.
