@@ -26,3 +26,8 @@ It allows users to register, log in, browse products, add items to a cart, and s
 4. Run on Apache Tomcat
 
 Educational project to demonstrate Java Web MVC concepts and basic e-commerce functionality.
+
+**Note:** A MySQL database is required to fully run the project (login, products, and cart functionality).
+However, the project structure and code can be reviewed without a database
+
+
