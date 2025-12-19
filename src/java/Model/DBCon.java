@@ -16,15 +16,16 @@ Class.forName("com.mysql.cj.jdbc.Driver");
 Connection con = DriverManager.getConnection(
 "jdbc:mysql://localhost:3306/shop",
 "root",
-"root" // خليه "" إذا ما عندك باسورد
+ "" // 
 );
 
 return con;
 
 } catch (Exception e) {
-e.printStackTrace(); // 👈 مهم جدًا
-throw e; // 👈 لا ترجع null أبداً
+e.printStackTrace(); 
+throw e; // 
 }
 
 }
+
 }
